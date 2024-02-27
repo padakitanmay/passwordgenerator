@@ -8,6 +8,14 @@ This is a simple password generator application built using React and Tailwind C
 - Include numbers and special characters in passwords
 - Copy generated passwords to clipboard with one click
 
+## To run 
+
+- Naviagate to folder and 
+``` Javascript
+npm run dev
+```
+
 ## Reference
 
 https://github.com/hiteshchoudhary
+
