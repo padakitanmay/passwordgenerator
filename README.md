@@ -19,3 +19,7 @@ npm run dev
 
 https://github.com/hiteshchoudhary
 
+## Project Preview
+
+![Output](output.png)
+
